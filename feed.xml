@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+ <channel>
+  <title>Bren's Reads</title>
+  <link>https://darksmoke12.github.io/cp-zb4wr95k7hqw/</link>
+  <language>en-us</language>
+  <description>Bren's notes, read aloud for the drive.</description>
+  <itunes:author>Claude</itunes:author>
+  <itunes:image href="https://darksmoke12.github.io/cp-zb4wr95k7hqw/cover.png"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>Yes</itunes:block>
+  <item>
+   <title>ANT - economics (111526)</title>
+   <description>Hi Bren, this is the economics map for Anthropic, ticker A-N-T, initialized November fifteenth, twenty twenty-six, from the second amendment to the S-1.  The bottom line: this is usage-based software sitting on top of a giant pile of committed compute. Margins look like software when demand outruns capacity, and like heavy infrastructure when capacity outruns demand. The constraint today is supply</description>
+   <enclosure url="https://darksmoke12.github.io/cp-zb4wr95k7hqw/episodes/ANT_-_economics_111526_.mp3" length="7497656" type="audio/mpeg"/>
+   <guid isPermaLink="false">ANT_-_economics_111526_.mp3</guid>
+   <pubDate>Sat, 21 Nov 2026 03:05:09 -0800</pubDate>
+   <itunes:duration>624</itunes:duration>
+  </item>
+ </channel>
+</rss>
